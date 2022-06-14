@@ -1,0 +1,15 @@
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/bin/Debug/net6.0/TASK
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/bin/Debug/net6.0/TASK.deps.json
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/bin/Debug/net6.0/TASK.runtimeconfig.json
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/bin/Debug/net6.0/TASK.dll
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/bin/Debug/net6.0/TASK.pdb
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/obj/Debug/net6.0/TASK.csproj.AssemblyReference.cache
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/obj/Debug/net6.0/TASK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/obj/Debug/net6.0/TASK.AssemblyInfoInputs.cache
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/obj/Debug/net6.0/TASK.AssemblyInfo.cs
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/obj/Debug/net6.0/TASK.csproj.CoreCompileInputs.cache
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/obj/Debug/net6.0/TASK.dll
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/obj/Debug/net6.0/refint/TASK.dll
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/obj/Debug/net6.0/TASK.pdb
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/obj/Debug/net6.0/TASK.genruntimeconfig.cache
+/Users/imac/Documents/GB/Контрольная работа/control-work/TASK/obj/Debug/net6.0/ref/TASK.dll
